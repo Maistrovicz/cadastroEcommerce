@@ -1,1 +1,1 @@
-# Projeto de cadastro para Ecomerce
+# Projeto de cadastro para comerce
